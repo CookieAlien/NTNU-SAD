@@ -1,2 +1,2 @@
 # NTNU-SAD
-this repo is very sad, there is nothing here right now :(
+心智圖 https://gitmind.com/app/docs/mw6wovk3
