@@ -20,10 +20,11 @@
   - [wtf academy](https://wtf.academy/)： Solidity, Ethers.js
   - [React Examples](https://reactjsexample.com/)： 許多運用react製作的網頁範例
 ### 學習時程規劃
-1. 上CryptoZombies完成Solidity部分的練習
-2. 到Scrima學習React並完成至少1~2項練習的專案\(可能也需要練習Javascript\)
-3. 建置完本地的開發環境，在自己的電腦上製作React的網頁
-4. 在React網頁基礎上融入Ethers.js,Solidity,Truffle等智慧型合約及虛擬貨幣
+1. 學習區塊鍊及以太坊的基礎知識
+2. 上CryptoZombies完成Solidity部分的練習
+3. 到Scrima學習React並完成至少1~2項練習的專案\(可能也需要練習Javascript\)
+4. 建置完本地的開發環境，在自己的電腦上製作React的網頁
+5. 在React網頁基礎上融入Ethers.js,Solidity,Truffle等智慧型合約及虛擬貨幣
 ### 學習目標
 想做出一個類似CryptoZoo的網站/遊戲
 [參考的影片](https://youtu.be/exbxjXAqQ5Y)  [參考網站](https://realzoo.itsyipy.com/)
