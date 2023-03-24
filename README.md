@@ -6,6 +6,7 @@
   - [區塊鍊是甚麼](https://youtu.be/K8AvTDdhdog)
   - [智慧型合約](https://rich01.com/what-is-smart-contract/)  
   - [以太坊](https://ethereum.org/en/learn/)
+  - [blockchain demo](https://andersbrownworth.com/blockchain/)
 - 各套件的官方文件
   - [React](https://zh-hant.reactjs.org/docs/getting-started.html)
   - [ethers.js](https://docs.ethers.org/v5/)
