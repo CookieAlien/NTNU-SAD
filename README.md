@@ -16,6 +16,7 @@
   - [Truffle](https://trufflesuite.com/docs/)
 - 其他學習網站
   - [Youtube freecodecamp](https://www.youtube.com/@freecodecamp): HTML, CSS, JavaScript, React, Node.js等等多數程式語言
+    -[目前觀看的Web3課程](https://youtu.be/gyMwXuJrbJQ) 以及它的[github repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
   - [Scrima](https://scrimba.com/): HTML,CSS,JavaScript,React
   - [CryptoZombies](https://cryptozombies.io/)： Solidity及blockchain相關程式語言
   - [wtf academy](https://wtf.academy/)： Solidity, Ethers.js
