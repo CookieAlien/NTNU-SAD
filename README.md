@@ -32,3 +32,4 @@
 [參考的影片](https://youtu.be/exbxjXAqQ5Y)  [參考網站](https://realzoo.itsyipy.com/)
 ### 解說影片
 [作業一](https://youtu.be/5PNDaXPBg7Y)
+[作業二](https://youtu.be/qqTYHfcJDhE)
